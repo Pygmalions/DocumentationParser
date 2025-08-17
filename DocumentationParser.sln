@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentationParser", "DocumentationParser\DocumentationParser.csproj", "{3BA98555-1C72-4BFF-8572-A928D88D952A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BA98555-1C72-4BFF-8572-A928D88D952A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA98555-1C72-4BFF-8572-A928D88D952A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA98555-1C72-4BFF-8572-A928D88D952A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA98555-1C72-4BFF-8572-A928D88D952A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
